@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: balaram.3352@gmail.com
     phone: +91-8939252383
-    website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/balaram-savaram-07435028/
     xing: 
     github: balaram3352
@@ -40,10 +40,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Cricket
         link:
 
-      - item: Snowboarding
+      - item: Reading
         link:
 
       - item: Cooking
@@ -59,9 +59,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Information Technology
+      university: Nagarjuna University
+      time: 2006 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,9 +70,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science & Electronics
+      university: Nagarjuna University
+      time: 2003 - 206
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,7 +82,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Technical Architect
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
@@ -172,13 +172,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+    
+     - name: Android
+       level: 98%
+        
+      - name: Spring Boot
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: AWS Could
+        level: 95%
 
-      - name: Angular
+      - name: Docker
         level: 98%
 
       - name: HTML5 & CSS
@@ -187,7 +191,7 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Docker & Kubernetees
         level: 60%
 
 footer: >
