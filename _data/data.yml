@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Balaramakrishna Savaram
+    name: Balarama krishna Savaram
     tagline: Technical Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -173,19 +173,19 @@ skills:
 
     toolset:
      
+      - name: Android
+        level: 98%
+
       - name: Spring Boot
-        level: 98%
-
-      - name: AWS Could
         level: 95%
 
-      - name: Docker
-        level: 98%
+      - name: AWS Cloud
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: CI/CD
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: React Native
         level: 85%
 
       - name: Docker & Kubernetees
