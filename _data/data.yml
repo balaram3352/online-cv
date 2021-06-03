@@ -78,8 +78,8 @@ education:
           - Bullet point
 experiences:
     - role: Technical Architect
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2016 - Present
+      company: Photon Interactive Pvt Ltd, Chennai, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,9 +92,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technical Lead
+      time: 2014 - 2016
+      company: HCL Technologies, Chennai, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -103,9 +103,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Software Engineer
+      time: 2010 - 2014
+      company: Photon Interactive Pvt Ltd, Chennai, India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -142,16 +142,16 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications & Awards
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Kony Certified Developer
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: 
+        conference:
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
