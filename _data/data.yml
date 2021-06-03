@@ -172,9 +172,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Android
-       level: 98%
-        
+     
       - name: Spring Boot
         level: 98%
 
