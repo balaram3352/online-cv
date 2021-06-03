@@ -150,18 +150,23 @@ publications:
     papers:
       - title: Kony Certified Developer
         link: "#"
-        authors: 
-        conference:
+        authors: Issued in 2014
+        conference: "By Kony Inc. Now Temenos, Switzerland"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Certificate of Excellence"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Awarded in 2015 on recognition of remarkable performance on the project deliverables and for the training session conducted for the Field agents from Hungary.
+        conference: "By International Personal Finance plc, UK"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Exceptional Contribution
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Awarded in 2015
+        conference: "By HCL Technologies, India & International Personal Finance plc, UK"
+
+      - title: HCL SPOT AWARD
+        link: "#"
+        authors: Awarded in 2015 on recognition of Tranining sessions conducted to the team to scale up.
+        conference: "By HCL Technologies, India"
 
 skills:
     title: Skills &amp; Proficiency
