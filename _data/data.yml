@@ -138,9 +138,9 @@ projects:
         tagline: "A Spring boot application hosted in AWS which backs the Esso pay mobile application for various platforms and integrated with different down stream systems"
 
 
-      - title: Esso Pay Mobile Application Server
+      - title: Mystore API
         link: "#"
-        tagline: "A Spring boot application hosted in AWS which backs the Esso pay mobile application for various platforms and integrated with different down stream systems"
+        tagline: "A Spring boot application hosted in Azure which backs the Mystore mobile application."
 
 publications:
     title: Certifications & Awards
