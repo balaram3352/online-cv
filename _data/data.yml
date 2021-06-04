@@ -117,25 +117,30 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Esso Pay
+        link: "https://apps.apple.com/gb/app/esso-pay-for-fuel-get-points/id1140860553"
+        tagline: "An iOS & Android Mobile application which will help Exxon mobile customer to hassle free gas fueling experience in UK, Gemany, Netherlands and Beligium"
 
-      - title: DevStudio
+      - title: Mystore & Retail Transformation Handheld
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "An Android in house application(Air-watch) for Walgreens which is aimed to help the store associates across 30k stores in USA day to day activities like Inventory counting, Goods Orgering, Barcode printing for products, Goods receiving and returns"
 
-      - title: Tempo
+      - title: IPF
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "An Android in house application(Kony EMM) for International Personal Finance which is aimed to help the field agents to collect the customer loan applications and collections in UK and Hungary"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Walgreens
+        link: "https://play.google.com/store/apps/details?id=com.usablenet.mobile.walgreen"
+        tagline: "An Android application which is available across USA and helps the customer to do online shopping with diff features"
 
-      - title: Delta
+      - title: Esso Pay Mobile Application Server
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A Spring boot application hosted in AWS which backs the Esso pay mobile application for various platforms and integrated with different down stream systems"
+
+
+      - title: Esso Pay Mobile Application Server
+        link: "#"
+        tagline: "A Spring boot application hosted in AWS which backs the Esso pay mobile application for various platforms and integrated with different down stream systems"
 
 publications:
     title: Certifications & Awards
