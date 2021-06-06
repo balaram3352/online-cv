@@ -113,9 +113,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In past 10+ years have worked on different technologies and with different cutstomers. Have design and developed 20+ apps. Here are the most recent projects whcih I have worked/wokring in recent times.
+      All the project details can be found in the linkedIn.
     assignments:
       - title: Esso Pay
         link: "https://apps.apple.com/gb/app/esso-pay-for-fuel-get-points/id1140860553"
@@ -145,9 +144,8 @@ projects:
 publications:
     title: Certifications & Awards
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Have been awarded in multiple occassions for the efforts and commitment on the role(s) I played on and also completed/completing some certifications which can enhance my skillset. 
+      Here is the list of some of those.
     papers:
       - title: Kony Certified Developer
         link: "#"
