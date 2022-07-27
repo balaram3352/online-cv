@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      10 + years of experience with a demonstrated history of working in the information technology and services industry. Skilled in <b>AWS</b>, <b>Java</b>, <b>Kotlin</b>, <b>Android</b>, <b>Spring Boot</b>, <b>EMM & MDM</b> and Kony. Have good Industry experience in core Software Design and Development from scratch with expertise in various Mobile and Web Technologies. Developed a number of frameworks that make apps more robust and scalable. Strong arts and design professional with a Master of Science focused in Information Technology.
+      12 + years of experience with a demonstrated history of working in the information technology and services industry. Skilled in <b>AWS</b>, <b>Java</b>, <b>Kotlin</b>, <b>Android</b>, <b>Spring Boot</b>, <b>EMM & MDM</b> and Kony. Have good Industry experience in core Software Design and Development from scratch with expertise in various Mobile and Web Technologies. Developed a number of frameworks that make apps more robust and scalable. Strong arts and design professional with a Master of Science focused in Information Technology.
 education:
     - degree: M.Sc in Information Technology
       university: Nagarjuna University
@@ -77,8 +77,22 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Tech Designer/ Architect
+      time: 2021 - Present
+      company: IBM India Pvt Ltd, Chennai, India
+      details: |
+        Being a Technical architect I was involved in designing, implementing, and maintaining IT systems which are scalable for business clients. I was responsible for low level designs, overseeing the implementation of programs, and coordinate with the software development team.
+          - Working alongside managers and clients to agree with their IT requirements
+          - Communicate software requirements to software development teams
+          - Evaluate and select appropriate software or hardware and suggest integration methods
+          - Oversee assigned programs (e.g. conduct code review) and provide guidance to team members
+          - Assist with solving technical problems when they arise
+          - Ensure the implementation of agreed architecture and infrastructure
+          - Address technical concerns, ideas and suggestions
+          - Monitor systems to ensure they meet both user needs and business goals
+          - Providing the software demos to the Business stake holders
     - role: Technical Architect
-      time: 2016 - Present
+      time: 2016 - 2021
       company: Photon Interactive Pvt Ltd, Chennai, India
       details: |
         Being a Technical architect I was involved in designing, implementing, and maintaining IT systems which are scalable for business clients. I was responsible for designing the structure of new technology systems, overseeing the implementation of programs, and coordinate with the software development team.
@@ -113,9 +127,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      In the past 10+ years I have worked on different technologies and with different cutstomers. Have designed and developed 20+ applications. Here are the most recent projects which I have worked/working in recent times.
+      In the past 12+ years I have worked on different technologies and with different cutstomers. Have designed and developed 20+ applications. Here are the most recent projects which I have worked/working in recent times.
       All the project details can be found in linkedIn.
     assignments:
+      - title: TSB Bank plc. 
+        link: "https://apps.apple.com/gb/app/tsb-mobile-banking/id1160720878"
+        tagline: "An iOS & Android Mobile application which will help TSB Bank customer to hassle free mobile banking experience in UK"
+
       - title: Esso Pay
         link: "https://apps.apple.com/gb/app/esso-pay-for-fuel-get-points/id1140860553"
         tagline: "An iOS & Android Mobile application which will help Exxon mobile customer to hassle free gas fueling experience in UK, Gemany, Netherlands and Beligium"
@@ -147,6 +165,9 @@ publications:
       Have been awarded in multiple occassions for the efforts and commitment on the role(s) I played.I also completed/completing certifications which can enhance my skillset. 
       Below is the list of thoese certifications.
     papers:
+      - title: Many LinkedIn recommendations from both reputed Clients and Senior leadership teams.
+        link: "https://www.linkedin.com/in/balaram-savaram-07435028/"
+       
       - title: Kony Certified Developer
         link: "#"
         authors: Issued in 2014
@@ -185,10 +206,10 @@ skills:
         level: 90%
 
       - name: React Native
-        level: 85%
+        level: 50%
 
       - name: Docker & Kubernetees
-        level: 80%
+        level: 50%
 
       - name: MDM & EMM
         level: 80%
