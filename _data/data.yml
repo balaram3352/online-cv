@@ -208,7 +208,7 @@ skills:
 
     toolset:
      
-      - name: Android
+      - name: Mobile
         level: 98%
 
       - name: Spring Boot
